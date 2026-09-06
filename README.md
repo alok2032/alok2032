@@ -43,15 +43,9 @@ Git & GitHub
 Programming fundamentals
 
 Building a strong technical foundation
-
-</td>
-</tr>
-</table>
-<div align="center">
 <div align="center">
 
-<img src="alok_about_me_cyber_animated.gif"
-
+<img src="./alok_about_me_cyber_animated.gif"
      width="100%"
      alt="Alok Chandra Bhat - About Me">
 
