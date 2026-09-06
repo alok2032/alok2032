@@ -1,154 +1,214 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:312e81,100:06b6d4&text=ALOK%20CHANDRA%20BHAT&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=@alok2032%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FUTURISTIC HEADER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=BCA+Student+%7C+Aspiring+AI+Engineer;Learning+Python+%7C+AI+%7C+Machine+Learning;Building+my+future+one+line+of+code+at+a+time" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:111827,75:312e81,100:06b6d4&text=ALOK%20CHANDRA%20BHAT&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=@alok2032%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&descSize=19&animation=fadeIn" width="100%"/>
 
 <br>
 
-<a href="https://github.com/alok2032">
-<img src="https://img.shields.io/github/followers/alok2032?label=Followers&style=for-the-badge&logo=github&color=111827" />
-</a>
-<a href="https://github.com/alok2032?tab=repositories">
-<img src="https://img.shields.io/github/stars/alok2032?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=111827" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=BCA+Student+%7C+Aspiring+AI+Engineer;Learning+Python+%7C+C+%7C+AI+%7C+Machine+Learning;Dream+%3E+Learn+%3E+Build+%3E+Become+an+AI+Engineer" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING_AI-06b6d4?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-MACHINE_LEARNING-7c3aed?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/GOAL-AI_ENGINEER-0891b2?style=for-the-badge&logo=robotframework&logoColor=white"/>
 
 </div>
 
-🎯 CURRENTLY FOCUSING
+<br>
+
+---
+
+# 🎯 CURRENTLY FOCUSING
+
+<div align="center">
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-🤖 Artificial Intelligence
+### 🤖 ARTIFICIAL INTELLIGENCE
 
-Machine Learning
-
-AI fundamentals
-
-Python for AI
-
-Problem solving
+🧠 Machine Learning  
+🐍 Python for AI  
+🔬 AI Fundamentals  
+📊 Data & Algorithms  
+🚀 Intelligent Systems  
+💡 Problem Solving
 
 </td>
+
 <td width="50%" valign="top">
 
-🧠 Developer Growth
+### 💻 DEVELOPER GROWTH
 
-Data Structures & Algorithms
+⚡ Data Structures & Algorithms  
+🔧 Git & GitHub  
+💻 Programming Fundamentals  
+🌐 Web Development  
+🧩 Logical Thinking  
+📚 Strong Technical Foundation
 
-Git & GitHub
+</td>
 
-Programming fundamentals
+</tr>
+</table>
 
-Building a strong technical foundation
+</div>
+
+---
+
+# 👨‍💻 ABOUT ME
+
 <div align="center">
 
 <img src="./alok_about_me_cyber_animated.gif"
      width="100%"
-     alt="Alok Chandra Bhat - About Me">
+     alt="Alok Chandra Bhat - Futuristic Cyberpunk About Me"/>
 
 </div>
-
-
-
-
-⚡ TECH ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode&perline=8" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Learning-06b6d4?style=for-the-badge&logo=googlebrain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
-
-🌌 WHAT I'M UP TO
-
-
-
-Current Mission
-
-🔭
-
-Exploring Artificial Intelligence
-
-🌱
-
-Improving Python & problem solving
-
-🧠
-
-Learning Machine Learning concepts
-
-💻
-
-Strengthening C & programming fundamentals
-
-🎯
-
-Preparing for an AI Engineer career
-
-⚡
-
-Turning ideas into code
-
-🧊 3D CONTRIBUTION UNIVERSE
-
-<div align="center">
-
-<!-- This section becomes a real 3D contribution graph after the GitHub Action is enabled. -->
-
-<img src="https://github.com/alok2032/alok2032/blob/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph"/>
-
-</div>
-
-📊 GITHUB PERFORMANCE
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alok2032&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=alok2032&theme=tokyonight&hide_border=true" height="170"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok2032&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="150"/>
+---
 
-</div>
-
-🌐 CONNECT WITH ME
+# ⚡ TECH ARSENAL
 
 <div align="center">
 
-<a href="https://github.com/alok2032">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 💻 LANGUAGES
 
-<!-- Replace the next links with your real profiles -->
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js&perline=5" />
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="mailto:alokchandrabhat@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 🛠️ TOOLS & PLATFORMS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" />
+
+<br><br>
+
+### 🤖 AI / MACHINE LEARNING
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-Learning-06b6d4?style=for-the-badge&logo=googlebrain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-Exploring-7c3aed?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python_for_AI-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
+
+---
+
+# 🌌 WHAT I'M UP TO
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:312e81,100:0f172a&animation=twinkling"/>
+<table>
 
-⚡ LEARN • BUILD • EVOLVE ⚡
+<tr>
+<td width="50%" valign="top">
 
-<sub>Thanks for visiting my GitHub profile.</sub>
+### 🔭 EXPLORING
+
+Artificial Intelligence  
+Machine Learning  
+AI fundamentals  
+Intelligent systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 LEARNING
+
+Python  
+Data Structures  
+Algorithms  
+Problem Solving
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 IMPROVING
+
+Programming  
+Logical thinking  
+Development skills  
+Technical foundation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 BUILDING MY FUTURE
+
+Becoming an AI Engineer  
+Learning every day  
+Building better skills  
+Turning ideas into code
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
+
+---
+
+# 🧊 3D CONTRIBUTION UNIVERSE
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg"
+     width="100%"
+     alt="3D GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+# 📊 GITHUB PERFORMANCE
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alok2032&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github"
+     height="180"
+     alt="Alok GitHub Stats"/>
+
+<img src="https://streak-stats.demolab.com?user=alok2032&theme=tokyonight&hide_border=true"
+     height="180"
+     alt="Alok GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok2032&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+     height="170"
+     alt="Top Languages"/>
+
+</div>
+
+---
+
+# 🧠 MY DEVELOPER MINDSET
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║       DREAM  →  LEARN  →  BUILD  →  IMPROVE         ║
+║                                                      ║
+║       CODE  →  DEBUG  →  LEARN  →  REPEAT           ║
+║                                                      ║
+║       TODAY'S LEARNING = TOMORROW'S SKILL            ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
