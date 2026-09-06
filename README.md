@@ -48,36 +48,14 @@ Building a strong technical foundation
 </tr>
 </table>
 <div align="center">
+<div align="center">
 
-## 👨‍💻 ABOUT ME
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 👋 Hello, I'm Alok
-
-🎓 **BCA Student**  
-🤖 **Aspiring AI Engineer**  
-💻 Learning **Python, C & Web Development**  
-🧠 Exploring **Artificial Intelligence & Machine Learning**  
-🚀 Building my skills for a future in **AI Engineering**
-
-<br>
-
-> ⚡ **Learn • Build • Improve • Repeat**
-
-</td>
-
-<td width="45%" valign="top">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5qOWU0M3RjM2Z0N3h3cTg5bGJ4a3M1dW5kY3Z6eWZ1dW5uNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" alt="AI Animation">
-
-</td>
-</tr>
-</table>
+<img src="./alok_about_me_animated.gif"
+     width="100%"
+     alt="Alok Chandra Bhat - About Me">
 
 </div>
+
 
 
 
